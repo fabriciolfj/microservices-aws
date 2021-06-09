@@ -20,3 +20,4 @@
   - lambda
   - s3
   - serverless  
+  - beanstalk
