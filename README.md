@@ -12,6 +12,7 @@
 - plataforma service, ou seja, serviços que cuidam da comunicação entre softwares (pontes), exemplo:
   - sns
   - ebs
+  - runtimes (kubernetes)
 
 ### SAAS
 - software service, ou seja, programas na cloud prontos para uso, como:
