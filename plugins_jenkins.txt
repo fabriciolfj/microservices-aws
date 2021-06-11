@@ -1,0 +1,125 @@
+SSH server	 Sucesso
+Folders	 Sucesso
+Trilead API	 Sucesso
+OWASP Markup Formatter	 Sucesso
+Structs	 Sucesso
+Pipeline: Step API	 Sucesso
+Token Macro	 Sucesso
+Build Timeout	 Sucesso
+JAXB	 Sucesso
+Credentials	 Sucesso
+Plain Credentials	 Sucesso
+SSH Credentials	 Sucesso
+Credentials Binding	 Sucesso
+SCM API	 Sucesso
+Pipeline: API	 Sucesso
+Timestamper	 Sucesso
+Caffeine API	 Sucesso
+Script Security	 Sucesso
+Plugin Utilities API	 Sucesso
+Font Awesome API	 Sucesso
+Popper.js API	 Sucesso
+JQuery3 API	 Sucesso
+Bootstrap 4 API	 Sucesso
+Snakeyaml API	 Sucesso
+Jackson 2 API	 Sucesso
+Popper.js 2 API	 Sucesso
+Bootstrap 5 API	 Sucesso
+ECharts API	 Sucesso
+Display URL API	 Sucesso
+Pipeline: Supporting APIs	 Sucesso
+Checks API	 Sucesso
+JUnit	 Sucesso
+Matrix Project	 Sucesso
+Resource Disposer	 Sucesso
+Workspace Cleanup	 Sucesso
+Ant	 Sucesso
+Durable Task	 Sucesso
+Pipeline: Nodes and Processes	 Sucesso
+Command Agent Launcher	 Sucesso
+Oracle Java SE Development Kit Installer	 Sucesso
+bouncycastle API	 Sucesso
+JavaScript GUI Lib: ACE Editor bundle	 Sucesso
+Pipeline: SCM Step	 Sucesso
+Pipeline: Groovy	 Sucesso
+Pipeline: Job	 Sucesso
+Apache HttpComponents Client 4.x API	 Sucesso
+Mailer	 Sucesso
+Pipeline: Basic Steps	 Sucesso
+Gradle	 Sucesso
+Pipeline: Milestone Step	 Sucesso
+Pipeline: Input Step	 Sucesso
+Pipeline: Stage Step	 Sucesso
+Pipeline Graph Analysis	 Sucesso
+Pipeline: REST API	 Sucesso
+JavaScript GUI Lib: Handlebars bundle	 Sucesso
+JavaScript GUI Lib: Moment.js bundle	 Sucesso
+Pipeline: Stage View	 Sucesso
+Pipeline: Build Step	 Sucesso
+Pipeline: Model API	 Sucesso
+Pipeline: Declarative Extension Points API	 Sucesso
+JSch dependency	 Sucesso
+Git client	 Sucesso
+GIT server	 Sucesso
+Pipeline: Shared Groovy Libraries	 Sucesso
+Branch API	 Sucesso
+Pipeline: Multibranch	 Sucesso
+Pipeline: Stage Tags Metadata	 Sucesso
+Pipeline: Declarative	 Sucesso
+Lockable Resources	 Sucesso
+Pipeline	 Sucesso
+Java JSON Web Token (JJWT)	 Sucesso
+OkHttp	 Sucesso
+GitHub API	 Sucesso
+Git	 Sucesso
+GitHub	 Sucesso
+GitHub Branch Source	 Sucesso
+Pipeline: GitHub Groovy Libraries	 Sucesso
+Pipeline: Stage View	 Sucesso
+Git	 Sucesso
+SSH Build Agents	 Sucesso
+Matrix Authorization Strategy	 Sucesso
+PAM Authentication	 Sucesso
+LDAP	 Sucesso
+Email Extension	 Sucesso
+Mailer	 Sucesso
+Loading plugin extensions	 Success
+Folders	 Sucesso
+OWASP Markup Formatter	 Sucesso
+Build Timeout	 Sucesso
+Credentials Binding	 Sucesso
+Timestamper	 Sucesso
+Workspace Cleanup	 Sucesso
+Ant	 Sucesso
+Gradle	 Sucesso
+Pipeline	 Sucesso
+GitHub Branch Source	 Sucesso
+Pipeline: GitHub Groovy Libraries	 Sucesso
+Pipeline: Stage View	 Sucesso
+Git	 Sucesso
+SSH Build Agents	 Sucesso
+Matrix Authorization Strategy	 Sucesso
+PAM Authentication	 Sucesso
+LDAP	 Sucesso
+Email Extension	 Sucesso
+Mailer	 Sucesso
+Loading plugin extensions	 Success
+Pipeline: GitHub	 Sucesso
+JavaScript GUI Lib: jQuery bundles (jQuery and jQuery UI)	 Sucesso
+GitHub Integration	 Sucesso
+GitHub Checks	 Sucesso
+Loading plugin extensions	 Success
+Javadoc	 Sucesso
+Maven Integration	 Sucesso
+Maven Invoker	 Sucesso
+Loading plugin extensions	 Success
+Authentication Tokens API	 Sucesso
+Docker Commons	 Sucesso
+Docker Pipeline	 Sucesso
+Loading plugin extensions	 Success
+Azure Commons	 Sucesso
+Kubernetes Continuous Deploy	 Sucesso
+Kubernetes Client API	 Sucesso
+Kubernetes Credentials	 Sucesso
+Kubernetes CLI	 Sucesso
+Loading plugin extensions	 Success
